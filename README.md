@@ -1,2 +1,2 @@
 # Smartwatch-battery-utilization-using-deep-learning-model
-This reposit will complete as soon as possible!
+This repository will be completed after submitting the paper!
